@@ -48,8 +48,8 @@
       u2Body: "Xây dựng tài liệu thiết kế game (GDD), bắt đầu từ tháng 10/2026.",
       u3Title: "Asset prototype",
       u3Body: "Tạo asset prototype cho các bản chơi mẫu.",
-      u4Title: "Hệ thống agent (đang xây dựng)",
-      u4Body: "Một hệ thống nhiều agent chạy trên Claude API, được thiết kế để vận hành trọn vẹn pipeline phát triển game theo quy trình Agile Scrum.",
+      u4Title: "Hệ thống agent (đang lên ý tưởng)",
+      u4Body: "Đang lên ý tưởng một hệ thống nhiều agent trên Claude, học hỏi từ mô hình mã nguồn mở Claude Code Game Studios, để vận hành pipeline phát triển game theo các sprint Agile Scrum.",
       backTop: "Về đầu trang",
       docTitle: "Cracking Bread Studio | Đất Độc"
     },
@@ -96,8 +96,8 @@
       u2Body: "Writing the game design document (GDD), started in October 2026.",
       u3Title: "Prototype assets",
       u3Body: "Creating prototype assets for sample playable builds.",
-      u4Title: "Agent system (in progress)",
-      u4Body: "A multi-agent system built on the Claude API, designed to run a complete game development pipeline following Agile Scrum.",
+      u4Title: "Agent system (planning)",
+      u4Body: "Planning a multi-agent system on Claude, inspired by the open-source Claude Code Game Studios template, to run the game development pipeline in Agile Scrum sprints.",
       backTop: "Back to top",
       docTitle: "Cracking Bread Studio | Evil Hometown"
     }
